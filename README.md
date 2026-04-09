@@ -14,7 +14,7 @@
       </p>
       <ul>
         <li>🚀 <b>Currently Learning:</b> Next.js (Server Components & Routing).</li>
-        <li>💻 <b>Working On:</b> A tourism-based website project.</li>
+        <li>💻 <b>Working On:</b> A tourism based website project.</li>
         <li>🔭 <b>Goal:</b> To master the MERN stack by the end of this year.</li>
         <li>⚡ <b>Fun Fact:</b> I spend more time thinking about git commit messages than actual logic.</li>
       </ul>
