@@ -12,7 +12,7 @@
 
 ### 📖 About Me
 
-I am a Frontend Developer who loves building interactive and user-friendly interfaces with **React**. I'm currently on a journey to become a Full Stack Developer.
+I am a Frontend Developer who loves building interactive and user friendly interfaces with **React**. I'm currently on a journey to become a Full Stack Developer.
 
 - 🚀 **Currently Learning:** Next.js (Server Components & Routing)
 - 💻 **Working On:** A tourism-based website project
