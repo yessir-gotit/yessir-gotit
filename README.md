@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d8ff&height=250&section=header&text=Welcome%20to%20my%20Space&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" width="25%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafij</h1>
@@ -16,7 +16,7 @@
         <li>🚀 <b>Currently Learning:</b> Next.js (Server Components & Routing).</li>
         <li>💻 <b>Working On:</b> A tourism-based website project.</li>
         <li>🔭 <b>Goal:</b> To master the MERN stack by the end of this year.</li>
-        <li>⚡ <b>Fun Fact:</b> I spend more time thinking about git commit than actual logic</li>
+        <li>⚡ <b>Fun Fact:</b> I spend more time thinking about git commit messages than actual logic.</li>
       </ul>
     </td>
     <td width="40%">
@@ -35,19 +35,25 @@
 <hr />
 
 <h2 align="center">📊 My GitHub Journey</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yessir-gotit&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+    </td>
+    <td width="20"></td> <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yessir-gotit&theme=tokyonight" alt="Stats Details" height="170" />
+    </td>
+  </tr>
+</table>
 
 <hr />
 
 <h2 align="center">🌐 Let's Connect</h2>
 <p align="center">
-<a href="www.linkedin.com/in/sofikul-hossain" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/md.sofikul.hossain.nafij" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>fac
+<a href="https://www.linkedin.com/in/sofikul-hossain" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/md.sofikul.hossain.nafij" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=00d8ff&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=yessir-gotit&label=Profile%20views&color=00d8ff&style=flat" alt="Views" />
 </p>
