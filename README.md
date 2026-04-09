@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" width="25%" alt="Banner" />
+  <img src="./banner.svg" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafij</h1>
