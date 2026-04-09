@@ -10,7 +10,7 @@
     <td width="60%">
       <h2>📖 About Me</h2>
       <p>
-        I am a Frontend Developer who loves building interactive and user-friendly interfaces with <b>React</b>. I'm currently on a journey to become a Full Stack Developer.
+        I am a Frontend Developer who loves building interactive and user friendly interfaces with <b>React</b>. I'm currently on a journey to become a Full Stack Developer.
       </p>
       <ul>
         <li>🚀 <b>Currently Learning:</b> Next.js (Server Components & Routing).</li>
