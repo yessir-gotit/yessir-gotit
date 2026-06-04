@@ -1,10 +1,9 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1a3a6a,100:4a9eff&height=200&section=header&text=Md.%20Sofikul%20Hossain&fontSize=40&fontColor=e2f0ff&fontAlignY=38&desc=@yessir-gotit%20%7C%20Front%20End%20Developer&descSize=16&descAlignY=58&descColor=7ecfb3&animation=fadeIn" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f19,75:111827,100:3b82f6&height=180&text=Md.%20Sofikul%20Hossain&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%7C%20MERN%20%7C%20Next.js%20Developer&descSize=16&descAlignY=62&descColor=60a5fa&animation=typing" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nafij</h1>
-<h3 align="center">Frontend Developer · React Enthusiast · Learning Next.js</h3>
+<h1 align="center">Hi, I'm Nafij</h1>
+<h3 align="center">Full Stack & MERN Developer · Next.js Developer · Linux Enthusiast</h3>
 
 <br/>
 
@@ -12,14 +11,28 @@
 
 ### 📖 About Me
 
-I am a Frontend Developer who loves building interactive and user friendly interfaces with **React**. I'm currently on a journey to become a Full Stack Developer.
+I am a Full-Stack Web Developer focused on building clean, highly responsive, and performance-optimized web applications. I love handling everything from compositor-thread smooth animations on the frontend to secure, race-condition-resistant architectures on the backend.
 
-- 🚀 **Currently Learning:** Next.js (Server Components & Routing)
-- 💻 **Working On:** A tourism-based website project
-- 🔭 **Goal:** To master the MERN stack by the end of this year
-- ⚡ **Fun Fact:** I spend more time thinking about git commit messages than actual logic
+- 🚀 **Currently Building:** A high-performance real-world bilingual news portal.
+- 🛠️ **Workflow Approach:** Leveraging advanced editors like Cursor and Pi to write clean, maintainable, and deeply understood code.
+- 🔭 **Core Ecosystem:** Next.js (App Router), React, Node.js, Express.js, MongoDB, Better Auth.
+- ⚡ **Fun Fact:** I use CachyOS/Arch Linux because I like my OS as clean and fast as my application bundles.
 
 <br clear="right"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<br/>
+
+## ## Featured Projects
+
+| Project | Live | Repository | Tech Stack | Highlights |
+|---|---|---|---|---|
+| **Inside-Story [In Progress]** | [Live](https://inside-story-theta.vercel.app/) | **Private** | Next.js 16, Sanity CMS, GROQ, Tailwind v4 | Geo-aware locale detection, live draft preview, compositor-driven navbar transitions |
+| **DriveFleet** | [Live](https://drivefleet-rho.vercel.app/) | [GitHub](https://github.com/yessir-gotit/drivefleet) | Next.js 16, Express, MongoDB, Better Auth, DaisyUI | Race-condition-resistant atomic booking flow, secure subdomain cross-origin authentication |
+| **SunCart** | [Live](https://suncart-rust.vercel.app/) | [GitHub](https://github.com/yessir-gotit/suncart) | React 19, Next.js 16, Better Auth, React Spring | Physics-driven micro-interactions, responsive grid filtering, automated route hydration skeletons |
 
 <br/>
 
@@ -30,7 +43,7 @@ I am a Frontend Developer who loves building interactive and user friendly inter
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,linux,git,github,vscode,vercel,arch" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,express,mongodb,tailwind,linux,arch,git,github,vscode,vercel" />
 </p>
 
 <br/>
@@ -58,6 +71,10 @@ I am a Frontend Developer who loves building interactive and user friendly inter
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
+  <a href="https://sofikul-hossain-nafij.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sofikul-hossain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
